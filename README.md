@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there 👋
-<samp>I'm Jaye 😊 and I am a future cloud engineer 🌥 </samp>
+<samp>I'm Jaye 😊 </samp>
 
 <!--
 <br><br>
