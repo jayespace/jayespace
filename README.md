@@ -15,18 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome to my page 🌱
+## Welcome to my page 😊
 <samp>Hello, my name is Jaye and I am an entry-level software developer looking to pursue a career in the IT field.</samp>   
 
-<samp>I am able to ...</samp>    
+<samp>✨ I am able to ...</samp>    
 <samp>- create website using Javascript and Go</samp>   
 <samp>- make container using Docker</samp>   
 <samp>- deploy websites on Google Cloud Platform</samp>   
 <samp>- utilize Terraform to set up infrastructure</samp>   
 <samp>- understand orchestration and CI/CD flow</samp>   
 
+<samp>🌱 I am currently learning ...</samp>   
+<samp>- data structure and algorithm</samp>   
+<samp>- python language</samp>   
+<samp>... because I realize the importance of the basics.</samp> 
+
 <samp>I am a fast learner with a curious mindset.</samp>   
-<samp>I enjoy working in this field because there is always something new to learn with the continuous influx of new technologies.</samp>     
+<samp>I love this field because there is always something new to learn with the continuous influx of new technologies.</samp>     
 
 <br>
 
@@ -35,6 +40,21 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=61DAFB"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/google compute engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;&nbsp;
+
+<br>
+
+### 🪄 Things I have done
+
+
+|  Name    |  Description    | Tech Stack | Repo |
+|-------------|-----------------|:------------:|:------:|
+| Job Scrapper | ‣ 사람인 사이트에서 원하는 키워드로 채용공고 검색 후 csv 파일 생성<br>‣ goroutine과 channel 사용으로 20% 속도 향상 | golang | [link](https://github.com/jayespace/job-scrapper) |
+| K8s Cluster Set up | ‣ GCE vm instance와 kubeadm으로 cluster 설정하기<br>‣ Terraform으로 vm 설정 단계에서 50% 시간 단축<br>‣ Master와 worker node는 정상적으로 연결 되었음을 확인함<br>‣ 하지만 container runtime의 문제인지 정상 작동은 하지 못했음 | GCE, Terraform, Docker | |
+| Scheduler | ‣ 버튼 클릭으로 시작과 종료 시간 기록하여 하루 스케줄 확인| golang, react | [link](https://github.com/jayespace/scheduler-with-timestamp) |
+| Github Action | | |[link](https://github.com/jayespace/github-action-practice) |
+| Team Project 2 | | nodejs, Docker | [link](https://github.com/jayespace/elice-2nd-project)|
+| Team Project 1 | | nodejs, javascript, mongoDb | [link](https://github.com/jayespace/elice-1st-project)|
+
 
