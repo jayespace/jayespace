@@ -15,15 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
-<samp>I'm Jaye 😊 </samp>
+## Welcome to my page 🌱
+<samp>Hello, my name is Jaye and I am an entry-level software developer looking to pursue a career in the IT field.</samp>   
 
-<!--
-<br><br>
+<samp>I am able to ...</samp>    
+<samp>- create website using Javascript and Go</samp>   
+<samp>- make container using Docker</samp>   
+<samp>- deploy websites on Google Cloud Platform</samp>   
+<samp>- utilize Terraform to set up infrastructure</samp>   
+<samp>- understand orchestration and CI/CD flow</samp>   
 
-## My Stack
+<samp>I am a fast learner with a curious mindset.</samp>   
+<samp>I enjoy working in this field because there is always something new to learn with the continuous influx of new technologies.</samp>     
 
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
--->
+<br>
+
+### ⚡ My tech stack
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=61DAFB"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/google compute engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;&nbsp;
+
